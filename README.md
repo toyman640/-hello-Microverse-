@@ -1,4 +1,3 @@
-# micro-trial
 <a name="readme-top"></a>
 
 # :green_book: Table of Contents
@@ -50,7 +49,7 @@
 
 ## :rocket: Live Demo <a name="live-demo"></a>
 
-
+- [Here is the link to the live experience](https://github.com/toyman640/Hello_microverse/).
 
 > |     | Mobile version                      | Desktop version                      |     |
 > | --- | ----------------------------------- | ------------------------------------ | --- |
@@ -75,7 +74,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/toyman640/micro-trial.git
+git clone https://github.com/toyman640/Hello_microverse.git
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -131,10 +130,10 @@ You can deploy this project using: GitHub Pages,
 
 ## :bust_in_silhouette: Author <a name="author"></a>
 
-:bust_in_silhouette: **Is-haq, Adnan Olamilekan**
+:bust_in_silhouette: **Falako Omotoyosi**
 
 - GitHub: [@toyman640](https://github.com/toyman640)
-- Twitter: [@_toyman_](https://twitter.com/_toyman_)
+- Twitter: [@_toyman](https://twitter.com/_toyman)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
