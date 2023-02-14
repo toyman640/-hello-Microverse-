@@ -50,7 +50,7 @@
 
 ## :rocket: Live Demo <a name="live-demo"></a>
 
-- [Here is the link to the live experience](https://adnanolarmmi.github.io/Portfolio-review/).
+
 
 > |     | Mobile version                      | Desktop version                      |     |
 > | --- | ----------------------------------- | ------------------------------------ | --- |
@@ -75,7 +75,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Portfolio-review.git
+git clone https://github.com/toyman640/micro-trial.git
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -133,9 +133,9 @@ You can deploy this project using: GitHub Pages,
 
 :bust_in_silhouette: **Is-haq, Adnan Olamilekan**
 
-- GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
-- LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
+- GitHub: [@toyman640](https://github.com/toyman640)
+- Twitter: [@_toyman_](https://twitter.com/_toyman_)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
